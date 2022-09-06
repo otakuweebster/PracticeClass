@@ -1,0 +1,15 @@
+H:\CST YEAR 2\COSC286\PracticeClass\bin\Debug\net6.0\PracticeClass.exe
+H:\CST YEAR 2\COSC286\PracticeClass\bin\Debug\net6.0\PracticeClass.deps.json
+H:\CST YEAR 2\COSC286\PracticeClass\bin\Debug\net6.0\PracticeClass.runtimeconfig.json
+H:\CST YEAR 2\COSC286\PracticeClass\bin\Debug\net6.0\PracticeClass.dll
+H:\CST YEAR 2\COSC286\PracticeClass\bin\Debug\net6.0\PracticeClass.pdb
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.csproj.AssemblyReference.cache
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.GeneratedMSBuildEditorConfig.editorconfig
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.AssemblyInfoInputs.cache
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.AssemblyInfo.cs
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.csproj.CoreCompileInputs.cache
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.dll
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\refint\PracticeClass.dll
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.pdb
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\PracticeClass.genruntimeconfig.cache
+H:\CST YEAR 2\COSC286\PracticeClass\obj\Debug\net6.0\ref\PracticeClass.dll
